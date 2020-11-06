@@ -1,8 +1,6 @@
 # Assignment-1-GE
 Repository for Assignment 1 of the Modules Games Engines 1
 
-This repository is for assignment 1 of the module Games Engines 1
-
 Name: Ciaran McHale
 
 Student Number: C16486904
