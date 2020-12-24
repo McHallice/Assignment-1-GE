@@ -1,10 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using System.Collections;
 
-public class MapGenerator : MonoBehaviour
-{
-    public enum DrawMode {NoiseMap, ColourMap, Mesh};
+public class MapGenerator : MonoBehaviour {
+
+	public enum DrawMode {NoiseMap, ColourMap, Mesh};
 	public DrawMode drawMode;
 
 	const int mapChunkSize = 241;
@@ -52,11 +51,8 @@ public class MapGenerator : MonoBehaviour
 			display.DrawMesh (MeshGenerator.GenerateTerrainMesh (noiseMap, meshHeightMultiplier, meshHeightCurve, levelOfDetail), TextureGenerator.TextureFromColourMap (colourMap, mapChunkSize, mapChunkSize));
 		}
 	}
-   
-		
 
-    void OnValidate() {
-		
+	void OnValidate() {
 		if (lacunarity < 1) {
 			lacunarity = 1;
 		}
