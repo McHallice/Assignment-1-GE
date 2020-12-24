@@ -13,7 +13,11 @@ For my Assignment I have decided to attempt to code procedurally generated terra
 For my references I looked at previous projects and saw one that had to do with procedurally generated terrain as well. 
 I also viewed the procedural generation forum on reddit(1)
 
+## References
+
 1. Procedural Generation Forum Reddit - Internet [Available: https://www.reddit.com/r/Unity3D/comments/8myoiw/procedural_unity3d_terrain/]
+2. Unity Manual Meshes - Internet [https://docs.unity3d.com/Manual/class-Mesh.html]
+3. Unity Manual Docs - Internet [https://docs.unity3d.com/Manual/UnityManual.html]
 
 ## **Description of the project:**
 
