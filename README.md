@@ -16,7 +16,7 @@ I also viewed the procedural generation forum on reddit(1)
 
 1. Procedural Generation Forum Reddit - Internet [Available: https://www.reddit.com/r/Unity3D/comments/8myoiw/procedural_unity3d_terrain/]
 
-Description
+Description:
 
 My project was suppose to be an alien procedurally generated terrain which would go on infinitely. I started by generating a grid of Noise map values which I then rendered to a screen. Once this was complete I needed to be able to have better contorl over the noise. I added in different parameters which would give me better contorl such as amplitude, frequency and Octave whcih gave me contorl of the intervals between the noise. I also added the ability to change the color of certain regions of the terrain which in a sense is mapping terrain types to our noise. After finsing this I then created a mesh object which would go over the noise. After this I then generated the map mesh with the ability to change the height of the mesh and the level of detail. Once this was all complete I had created my terrain so to speak. The next step was to create infinite terrain that generated forever. This part was suppose to be able to create endless terrain so that it would never end. I ran into problems with this part and couldnt get it to work. I attempted to create a script which woudl update the visible chunks of the map depending on where the viewer object was, in this case a cube. This would make it look like the map never ended and that the terrain was infinite however I couldnt get it to work. 
 
