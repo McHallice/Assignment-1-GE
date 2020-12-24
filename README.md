@@ -15,3 +15,16 @@ For my references I looked at previous projects and saw one that had to do with 
 I also viewed the procedural generation forum on reddit(1)
 
 1. Procedural Generation Forum Reddit - Internet [Available: https://www.reddit.com/r/Unity3D/comments/8myoiw/procedural_unity3d_terrain/]
+
+My project was suppose to be an alien procedurally generated terrain which would go on infinitely. I started by generating a grid of Noise map values which I then rendered to a screen. Once this was complete I needed to be able to have better contorl over the noise. I added in different parameters which would give me better contorl such as amplitude, frequency and Octave whcih gave me contorl of the intervals between the noise. I also added the ability to change the color of certain regions of the terrain which in a sense is mapping terrain types to our noise. After finsing this I then created a mesh object which would go over the noise. After this I then generated the map mesh with the ability to change the height of the mesh and the level of detail. Once this was all complete I had created my terrain so to speak. The next step was to create infinite terrain that generated forever. This part was suppose to be able to create endless terrain so that it would never end. I ran into problems with this part and couldnt get it to work. I attempted to create a script which woudl update the visible chunks of the map depending on where the viewer object was, in this case a cube. This would make it look like the map never ended and that the terrain was infinite however I couldnt get it to work. 
+
+For this assignment I had been using what we learned from class in terms of vertices and vectors and the experince of utilising unity from labs. This included creating objects, materials etc. However I did look into generating noise and in particular meshes and how to store vertices in 1-D arrays. I took alot of what i learned from labs and applied it here with some help from tutorials as well. These tutorials helped me to better uynderstand how meshes worked and how to go about creating a terrain landscape. 
+
+I am most proud of how the project shaped up in the end. I was slighlty worried about genertaing a terrain that looked nice and was pleasing while also making it procedurally generate as well. Although I didnt quite get it to work I felt i put in a good effort and attempted to push myself. 
+
+[![YouTube](https://i9.ytimg.com/vi/ZMA89F9vDUM/mq2.jpg)](https://www.youtube.com/watch?v=ZMA89F9vDUM)
+
+
+
+
+
