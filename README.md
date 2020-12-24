@@ -28,7 +28,7 @@ What I am Most Proud of:
 
 I am most proud of how the project shaped up in the end. I was slighlty worried about genertaing a terrain that looked nice and was pleasing while also making it procedurally generate as well. Although I didnt quite get it to work I felt i put in a good effort and attempted to push myself. 
 
-[![YouTube](https://img.com/vi/ZMA89F9vDUM/mq2.jpg)](https://www.youtube.com/watch?v=ZMA89F9vDUM)
+[![YouTube](https://i9.ytimg.com/vi/ZMA89F9vDUM/mq2.jpg?sqp=CMDZj_8F&rs=AOn4CLBEjRjZ5I5CQQQO4uQCZ5Iw-eZ1cQ)](https://www.youtube.com/watch?v=ZMA89F9vDUM)
 
 
 
